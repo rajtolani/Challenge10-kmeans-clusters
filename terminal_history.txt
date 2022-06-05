@@ -1,0 +1,33 @@
+    1  conda activate dev
+    2  cd c:/RajB*/challenge-7
+    3  ls
+    4  voila challenge-7-etf_analyzer
+    5  exit
+    6  cd c:/RajB*
+    7  cd challenge10
+    8  ls
+    9  cd Challenge-10
+   10  git config --global user.name Raj Tolani
+   11  git config --global user.email admin@tolanicollection.com
+   12  git config --list
+   13  uit
+   14  git clone https://github.com/rajtolani/Challenge10-kmeans-clusters.git
+   15  ls
+   16  cd Ch*
+   17  git config --list
+   18  git status
+   19  git add .
+   20  git status
+   21  git commit -m "This version has the original starter files provided but the Fintech BootCamp Staff.
+"
+   22  git push
+   23  git status
+   24  git add .
+   25  git commit -m "This version has all the code completed for this challenge"
+   26  git push
+   27  git status
+   28  git add .
+   29  git status
+   30  git commit -m "Final Commit for submission. Has all code, comments and Readme file."
+   31  git push
+   32  history 50 > terminal_history.txt
